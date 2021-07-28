@@ -1,0 +1,1 @@
+(this["webpackJsonp@chainsafe/chainbridge-ui"]=this["webpackJsonp@chainsafe/chainbridge-ui"]||[]).push([[22],{361:function(n,i){},362:function(n,i){},363:function(n,i){},365:function(n,i){},366:function(n,i){},481:function(n,i){},482:function(n,i){},483:function(n,i){}}]);
